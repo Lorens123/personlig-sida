@@ -26,6 +26,7 @@ h1 {
 }
 p {
   font-size: 20pt;
+  max-width: 30%;
   color: white;
 }
 body {
@@ -34,8 +35,15 @@ body {
 h2 {
   font-size: 31pt;
   color: green;
-  line-height: 120px;
+  line-height: 110px;
 }
-.Om-Lorens {
+
+.special-p {
   background-color: black;
+  margin: auto;
+}
+
+.article-text {
+  background-color: black;
+  margin: 120px;
 }
