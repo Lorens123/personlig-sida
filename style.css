@@ -47,3 +47,20 @@ h2 {
   background-color: black;
   margin: 120px;
 }
+b {
+  background-color: blue;
+  margin: 130px;
+}
+.ingress-rock {
+  color: #000000;
+  margin: auto;
+}
+.rock {
+  font-size: 40pt;
+  color: red;
+  line-height: 120px;
+  margin: au;
+}
+.metal {
+  background-color: gold;
+}
