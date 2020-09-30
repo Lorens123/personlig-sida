@@ -49,7 +49,6 @@ h2 {
 }
 b {
   background-color: blue;
-  margin: 130px;
 }
 .ingress-rock {
   color: #000000;
@@ -59,8 +58,29 @@ b {
   font-size: 40pt;
   color: red;
   line-height: 120px;
-  margin: au;
 }
 .metal {
   background-color: gold;
+}
+footer {
+  background-color: black;
+  bottom: 0;
+  height: 50px;
+  width: 100%;
+
+  margin: 0;
+  padding: 0;
+}
+.ghost {
+  font-size: 20pt;
+  color: white;
+  line-height: 140px;
+}
+.topp1 {
+  background-color: black;
+}
+
+ol {
+  margin: 16px;
+  font-size: 16px;
 }
