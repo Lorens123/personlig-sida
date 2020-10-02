@@ -96,3 +96,7 @@ ol {
   align-items: center;
   flex-direction: column;
 }
+c {
+  display: flex;
+  justify-content: space-around;
+}
